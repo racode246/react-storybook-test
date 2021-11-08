@@ -28,6 +28,7 @@ export const Page = ({
       <h2>Pages in Storybook</h2>
       <p>add text</p>
       <p>add text2</p>
+      <p>add text3</p>
       <p>
         We recommend building UIs with a{" "}
         <a
